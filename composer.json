@@ -1,5 +1,17 @@
 {
     "name": "hellomjw/dy-sdk-lite",
+    "description": "阿里云短信SDK轻量版本",
+    "keywords": ["sdk", "aliyun", "aliyun-sms-lite"],
+    "authors": [
+        {
+            "name": "hellomjw",
+            "email": "majianwei168@outlook.com"
+        }
+    ],
     "type": "library",
-    "require": {}
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    }
 }
