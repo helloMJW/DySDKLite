@@ -11,6 +11,11 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { 
+            "Aliyun\\DySDKLite\\": "./"
+        }
+    },
     "require": {
         "php": ">=5.4"
     }
